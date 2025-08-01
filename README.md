@@ -9,7 +9,7 @@ Que los estudiantes aprendan a colaborar en un proyecto usando Git y GitHub, cre
 
 ---
 
-## 🪜 Pasos del Taller
+## 🪜 Pasos del Taller 
 
 ### 1. 🔧 Acceso al repositorio desde GitHub Classroom
 1.1. Ingresar al enlace proporcionado de **GitHub Classroom**.
